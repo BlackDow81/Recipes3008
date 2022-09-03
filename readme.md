@@ -6,3 +6,4 @@
 - [Банановый хлеб](banana_bread.md)
 - [Курица "Пикассо"](chicken_picasso.md)
 - [Сырники из творога](cheese_pancakes.md)
+- [Классическая шарлотка](charlotte.md)
