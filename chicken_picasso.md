@@ -1,5 +1,5 @@
 # Курица "Пикассо"
-[оригинал](https://eda.ru/recepty/vypechka-deserty/bananovyy-hleb-104302)
+[оригинал](https://eda.ru/recepty/osnovnye-blyuda/kurica-pikasso-25902)
 
 ### Ингридиенты
 | Название        	      | Количество       |
